@@ -1,0 +1,12 @@
++++++++++New_Game+++++++++++++
+game mode : Simple game
+Blue player : Human
+Red player : Human
+Board Size : 4x4
+Player "S" and "O" placement(name, x , y , label)
+- Blue_player 5 6 S
+- Blue_player 6 9 O
+- Red_player 5 6 S
+- Red_player 6 9 O
+=> Blue_player is the winner
++++++++++Game_Over+++++++++++++

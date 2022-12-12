@@ -1,0 +1,186 @@
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
++++++++++New_Game+++++++++++++
+Game mode : SimpleGame
+Blue player : Human
+Red player : Human
+Board Size : 3x3
+Player's S and O placement (name, x-coordinate, y-coordinates, label)
